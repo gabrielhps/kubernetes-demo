@@ -1,7 +1,7 @@
-piVersion: v1
+apiVersion: v1
 kind: Service
 metadata:
-  name: kubernetes-demo-svc
+  name: kubernetes-demo
   labels:
     app: kubernetes-demo
 spec:
